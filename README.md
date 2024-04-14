@@ -47,7 +47,7 @@
 - [Linq2DB CRUD Operations](https://dev.to/rajpawar/linq2db-crud-operations-47mk)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://dev.to/rajpawar)
 
 ---
 
