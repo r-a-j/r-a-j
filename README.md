@@ -11,7 +11,7 @@
 
 - 📄 My experiences [https://rajpawar.in/resume](https://rajpawar.in/resume)
 
-### Blogs posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
