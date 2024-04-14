@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-a-j&show_icons=true&locale=en" alt="r-a-j" /></p>
 
-# Blog posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Linq2DB CRUD Operations](https://dev.to/rajpawar/linq2db-crud-operations-47mk)
 <!-- BLOG-POST-LIST:END -->
