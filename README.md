@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-a-j&show_icons=true&locale=en&layout=compact" alt="r-a-j" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-a-j&show_icons=true&locale=en" alt="r-a-j" /></p>
+
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -31,8 +31,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="r-a-j's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=r-a-j&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+  <summary>:zap: GitHub Stats</summary>  
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=r-a-j&show_icons=true&locale=en&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="r-a-j" /></p>
 </details>
