@@ -11,10 +11,6 @@
 
 - 📄 My experiences [https://rajpawar.in/resume](https://rajpawar.in/resume)
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rajpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajpawar" height="30" width="40" /></a>
@@ -28,3 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-a-j&show_icons=true&locale=en&layout=compact" alt="r-a-j" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-a-j&show_icons=true&locale=en" alt="r-a-j" /></p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
