@@ -51,4 +51,5 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-a-j&show_icons=true&locale=en&layout=compact" alt="r-a-j" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=r-a-j&" alt="r-a-j" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=r-a-j&show_icons=true&locale=en&layout=compact" alt="r-a-j" />
