@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **er.rajpawar@gmail.com**
 
-- 📄 My experiences [https://rajpawar.in/resume](https://rajpawar.in/#about)
+- 📄 My experiences [https://rajpawar.in/resume](https://rajpawar.in/#experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
