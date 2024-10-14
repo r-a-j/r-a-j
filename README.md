@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **Masters Data Science**
 
-- 👨‍💻 My projects [https://rajpawar.in/portfolio](https://rajpawar.in/portfolio)
+- 👨‍💻 My projects [https://rajpawar.in/portfolio](https://rajpawar.in/#portfolio)
 
 - 📫 How to reach me **er.rajpawar@gmail.com**
 
