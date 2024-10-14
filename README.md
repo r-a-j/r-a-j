@@ -10,7 +10,7 @@
 - 📫 How to reach me **er.rajpawar@gmail.com**
 
 - 📄 My experiences [https://rajpawar.in/resume](https://rajpawar.in/resume)
-- 📄 My experiences <a href="https://rajpawar.in/resume" target="_blank">Here</a>
+- 📄 My experiences <a href="http://example.com/" target="_blank">Hello, world!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
