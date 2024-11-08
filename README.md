@@ -44,6 +44,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- - [Sketch and Solve - A Big Data Paradigm for Efficient Large-Scale Data Processing](https://dev.to/rajpawar/sketch-and-solve-a-big-data-paradigm-for-efficient-large-scale-data-processing-4af5)
 - [Linq2DB CRUD Operations](https://dev.to/rajpawar/linq2db-crud-operations-47mk)
 <!-- BLOG-POST-LIST:END -->
 
