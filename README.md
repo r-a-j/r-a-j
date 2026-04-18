@@ -4,7 +4,7 @@
   </p>
   
   <p align="center">
-    <b>Architecting scalable software and training intelligent models. Originally from INDIA, currently pushing boundaries in GERMANY.</b>
+    <b>Architecting scalable software and training intelligent models. <br> Originally from INDIA, currently pushing boundaries in GERMANY.</b>
   </p>
 
   <p align="center">
