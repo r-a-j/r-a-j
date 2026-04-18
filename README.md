@@ -19,9 +19,9 @@
 
 <br>
 
-I specialize in the intersection where heavy statistical modeling meets production-grade software engineering. Currently pursuing my **M.Sc. in Data Science in Germany** and contributing to innovative solutions at **PartikelART Solution GmbH**. 
+I specialize in the development and integration of heavy statistical models into production grade software engineering. Currently pursuing my **M.Sc. in Data Science in Germany** and contributing to innovative solutions at **PartikelART Solution GmbH**. 
 
-Because of my deep roots in Full-Stack Engineering, I don't just build Jupyter Notebooks; I build the pipelines, APIs, and interfaces that bring data models to life.
+Because of my deep roots in Full-Stack Engineering, I don't just build Jupyter Notebooks, I build the pipelines, APIs, and interfaces that bring data models to life.
 
 - **Current Focus:** Computer Vision & Image Classification.
 - **Experience:** Explore my professional timeline [here](https://rajpawar.in/experience).
