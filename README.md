@@ -1,51 +1,70 @@
-<h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<div align="center">  
+  <a href="https://rajpawar.in/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Rome+wasn%E2%80%99t+built+in+a+day" alt="Typing SVG" /></a>
 
-![](https://komarev.com/ghpvc/?username=r-a-j&label=PROFILE+VIEWS)
+  <p align="center">
+    <b>Architecting scalable software and training intelligent models. Originally from INDIA, currently pushing boundaries in GERMANY.</b>
+  </p>
 
-- 🌱 I’m currently studying **Masters Data Science**
+  <p align="center">
+    <a href="https://rajpawar.in/projects"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/rajpawar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://dev.to/rajpawar"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
+    <a href="mailto:er.rajpawar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 
-- 👨‍💻 My projects [https://rajpawar.in/projects](https://rajpawar.in/projects)
+  <img src="https://komarev.com/ghpvc/?username=r-a-j&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
-- 📫 How to reach me **er.rajpawar@gmail.com**
+<br>
 
-- 📄 My experiences [https://rajpawar.in/experience](https://rajpawar.in/experience)
+I specialize in the intersection where heavy statistical modeling meets production-grade software engineering. Currently pursuing my **M.Sc. in Data Science in Germany** and contributing to innovative solutions at **PartikelART Solution GmbH**. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://dev.to/rajpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajpawar" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/rajpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajpawar" height="30" width="40" /></a>
-    <a href="https://www.behance.net/rajpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rajpawar" height="30" width="40" /></a>
-</p>
+Because of my deep roots in Full-Stack Engineering, I don't just build Jupyter Notebooks; I build the pipelines, APIs, and interfaces that bring data models to life.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /></a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /></a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40" /></a>
-</p>
+- **Current Focus:** Computer Vision & Image Classification.
+- **Experience:** Explore my professional timeline [here](https://rajpawar.in/experience).
 
----
+<br>
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+## Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,cs,dotnet,java,spring,ts,angular,js,html,css,sass,azure,git,mysql,postgres,xd,postman&perline=9" alt="Raj's Tech Stack"/>
+  </a>
+</div>
+
+<br>
+
+## Research & Repositories
+Beyond typical software dev, my recent analytical work involves:
+* **[Applied-Bayesian-Data-Analysis](https://github.com/r-a-j/Applied-Bayesian-Data-Analysis):** Heavy statistical computing and modeling using R.
+* **[IDS-Image-Classification](https://github.com/r-a-j/IDS-Image-Classification):** Deep learning pipelines for accurate visual recognition.
+* **[Comparison-of-Multiple-Distributions](https://github.com/r-a-j/Comparison-of-multiple-distributions):** Exploratory data analysis and statistical validation.
+
+<br>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=r-a-j&show_icons=true&theme=transparent&hide_border=true&title_color=0E75B6&text_color=777777&icon_color=0E75B6&bg_color=00000000" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-a-j&theme=transparent&hide_border=true&stroke=0000&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## Insights
+I write about big data processing, system design, and the nuances of efficient code.
+
 - [Sketch and Solve - A Big Data Paradigm for Efficient Large-Scale Data Processing](https://dev.to/rajpawar/sketch-and-solve-a-big-data-paradigm-for-efficient-large-scale-data-processing-4af5)
 - [Linq2DB CRUD Operations](https://dev.to/rajpawar/linq2db-crud-operations-47mk)
-<!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/rajpawar)
+<div align="right">
+  <a href="https://dev.to/rajpawar"><b>Read more on Dev.to ➔</b></a>
+</div>
