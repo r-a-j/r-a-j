@@ -1,6 +1,6 @@
 <div align="center">  
   <p align="center">
-    <a href="https://rajpawar.in/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Rome+wasn%E2%80%99t+built+in+a+day" alt="Typing SVG" /></a>
+    <a href="https://rajpawar.in/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=A10000&width=435&lines=Rome+wasn%E2%80%99t+built+in+a+day" alt="Typing SVG" /></a>
   </p>
   
   <p align="center">
