@@ -1,6 +1,8 @@
 <div align="center">  
-  <a href="https://rajpawar.in/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Rome+wasn%E2%80%99t+built+in+a+day" alt="Typing SVG" /></a>
-
+  <p align="center">
+    <a href="https://rajpawar.in/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Rome+wasn%E2%80%99t+built+in+a+day" alt="Typing SVG" /></a>
+  </p>
+  
   <p align="center">
     <b>Architecting scalable software and training intelligent models. Originally from INDIA, currently pushing boundaries in GERMANY.</b>
   </p>
