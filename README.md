@@ -1,6 +1,6 @@
 <div align="center">  
   <p align="center">
-    <a href="https://rajpawar.in/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=A10000&width=440&lines=Rome+wasn%E2%80%99t+built+in+a+day" alt="Typing SVG" /></a>
+    <a href="https://rajpawar.in/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=A10000&width=440&lines=Rome+wasn%E2%80%99t+built+in+a+day" alt="Rome wasn't built in a day"></a>
   </p>
   
   <p align="center">
@@ -19,7 +19,7 @@
 
 <br>
 
-I specialize in the development and integration of heavy statistical models into production grade software engineering. Currently pursuing my **M.Sc. in Data Science in Germany** and contributing to innovative solutions at **PartikelART Solution GmbH**. 
+I specialize in the development and integration of heavy statistical models into production grade software engineering. Currently pursuing my **M.Sc. in Data Science in Germany** and contributing to open-source projects that matter.
 
 Because of my deep roots in Full-Stack Engineering, I don't just build Jupyter Notebooks, I build the pipelines, APIs, and interfaces that bring data models to life.
 
@@ -50,7 +50,7 @@ Beyond typical software dev, my recent analytical work involves:
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=r-a-j&show_icons=true&theme=transparent&hide_border=true&title_color=0E75B6&text_color=777777&icon_color=0E75B6&bg_color=00000000" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=r-a-j&show_icons=true&theme=transparent&hide_border=true&title_color=0E75B6&text_color=777777&icon_color=0E75B6&bg_color=000000" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-a-j&theme=transparent&hide_border=true&stroke=0000&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
