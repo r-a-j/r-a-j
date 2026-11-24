@@ -1,15 +1,10 @@
-<div align="center">  
-  <p align="center">
-    <a href="https://rajpawar.in/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=A10000&width=440&lines=Rome+wasn%E2%80%99t+built+in+a+day" alt="Typing SVG" /></a>
-  </p>
+<div align="center">
+  <h1><a href="https://rajpawar.in">Raj Pawar</a></h1>
+  <p><strong>Machine Learning, Computer Vision &amp; Software Engineer</strong> Â· Dortmund, Germany</p>
 
-  <p align="center">
-    <b>Architecting scalable software and training intelligent models. <br> Originally from INDIA, currently pushing boundaries in GERMANY.</b>
-  </p>
-
-  <p align="center">
-    <a href="https://rajpawar.in/projects"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://linkedin.com/in/rajpawar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <p>
+    <a href="https://rajpawar.in"><img src="https://img.shields.io/badge/Portfolio-rajpawar.in-181816?style=for-the-badge" alt="Raj Pawar Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/rajpawar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://dev.to/rajpawar"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
     <a href="mailto:er.rajpawar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
@@ -19,22 +14,28 @@
 
 <br>
 
-I specialize in the development and integration of heavy statistical models into production grade software engineering. Currently pursuing my **M.Sc. in Data Science in Germany** and contributing to innovative solutions at **PartikelART Solution GmbH**. 
+I am [Raj Pawar](https://rajpawar.in), an M.Sc. Data Science student at Technical University Dortmund and a software &amp; machine learning engineer based in Dortmund, Germany.
 
-Because of my deep roots in Full-Stack Engineering, I don't just build Jupyter Notebooks, I build the pipelines, APIs, and interfaces that bring data models to life.
+Over the past two years at **PartikelART Solution GmbH**, I worked on automated optical inspection for automotive manufacturing (VDA 19.1 / ISO 16232), covering PyTorch segmentation models (UÂ²-Net, FPN), OpenCV image-analysis pipelines, a Python active-learning backend (Label Studio, SAM 2.1, Azure Blob Storage), and production web/mobile apps. Our team won **1st Place and the TU capital Special Prize at the TU Start-up Award 2025**.
 
-- **Current Focus:** Computer Vision & Image Classification.
-- **Experience:** Explore my professional timeline [here](https://rajpawar.in/experience).
+- **Portfolio &amp; Case Studies:** [rajpawar.in](https://rajpawar.in)
+- **Work Experience:** [rajpawar.in/experience](https://rajpawar.in/experience)
+- **Focus Areas:** Industrial Computer Vision, Deep Learning, Edge AI, and Full-Stack Software Engineering.
 
-<br>
+## Selected Projects
 
-## Research & Repositories
-Beyond typical software dev, my recent analytical work involves:
-* **[Applied-Bayesian-Data-Analysis](https://github.com/r-a-j/Applied-Bayesian-Data-Analysis):** Heavy statistical computing and modeling using R.
-* **[IDS-Image-Classification](https://github.com/r-a-j/IDS-Image-Classification):** Deep learning pipelines for accurate visual recognition.
-* **[Comparison-of-Multiple-Distributions](https://github.com/r-a-j/Comparison-of-multiple-distributions):** Exploratory data analysis and statistical validation.
+| Project | Stack | Links |
+| :--- | :--- | :--- |
+| **Kosh** Â· Offline-first Android AI app running local LLMs on mobile NPU/GPU/CPU via Google LiteRT with AES-256-GCM vaults and SQLite FTS4 document search | Kotlin, Jetpack Compose, LiteRT, SQLite | [Repo](https://github.com/r-a-j/kosh) Â· [Case Study](https://rajpawar.in/project-details/kosh) |
+| **Particle Classification &amp; Segmentation (VDA 19.1)** Â· Deep learning and OpenCV benchmark across 54,500 microscope and smartphone particle images plus a Gradio inspection tool | Python, PyTorch, YOLOv8, OpenCV, Gradio | [Repo](https://github.com/r-a-j/Particle-Classification-and-Segmentation) Â· [Case Study](https://rajpawar.in/project-details/metal-nonmetal-classification) |
+| **Eye-Tracking Fixations** Â· 60 Hz gaze signal processing, velocity-based fixation detectors, and data validation across 183,627 fixations | Python, NumPy, SciPy, pandas | [Repo](https://github.com/r-a-j/Eye-Tracking-Fixations) Â· [Case Study](https://rajpawar.in/project-details/eye-tracking-fixations) |
+| **Simulation-Based Inference (LIF Neuron)** Â· Forward Euler voltage-trace simulator and neural posterior estimation on GPU | Python, BayesFlow, TensorFlow, NumPy | [Repo](https://github.com/r-a-j/simulation-based-inference) Â· [Case Study](https://rajpawar.in/project-details/simulation-based-inference) |
+| **Georeferenced Microdata Anonymization** Â· WGS84-to-UTM transforms and SciPy cKDTree spatial privacy benchmark over 179k OpenStreetMap buildings | Python, NumPy, SciPy, Matplotlib | [Repo](https://github.com/r-a-j/georeferenced-microdata-anonymization) Â· [Case Study](https://rajpawar.in/project-details/georeferenced-microdata-anonymization) |
+| **Applied Bayesian Data Analysis** Â· Hierarchical spatio-temporal modeling of Arctic sea ice extent (1979-2023) | R, Stan, brms | [Repo](https://github.com/r-a-j/Applied-Bayesian-Data-Analysis) Â· [Case Study](https://rajpawar.in/project-details/applied-bayesian-data-analysis) |
 
-## Sometimes I write
+More projects and demos (including **Social Scope** and **CineScope**) at [rajpawar.in/projects](https://rajpawar.in/projects).
+
+## Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [Sketch and Solve - A Big Data Paradigm for Efficient Large-Scale Data Processing](https://dev.to/rajpawar/sketch-and-solve-a-big-data-paradigm-for-efficient-large-scale-data-processing-4af5)
@@ -42,7 +43,7 @@ Beyond typical software dev, my recent analytical work involves:
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
-  <a href="https://dev.to/rajpawar"><b>Read more on Dev.to ➔</b></a>
+  <a href="https://dev.to/rajpawar"><b>Read more on Dev.to â†’</b></a>
 </div>
 
 <br>
@@ -50,13 +51,7 @@ Beyond typical software dev, my recent analytical work involves:
 ## Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,cs,dotnet,java,spring,ts,angular,js,html,css,sass,azure,git,mysql,postgres,xd,postman&perline=9" alt="Raj's Tech Stack"/>
+  <a href="https://rajpawar.in/skills">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,ts,angular,kotlin,android,fastapi,nestjs,spring,cs,dotnet,docker,linux,git,postgres,azure,r&perline=9" alt="Raj Pawar Tech Stack" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-a-j&theme=transparent&hide_border=true&stroke=0000&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
 </div>
